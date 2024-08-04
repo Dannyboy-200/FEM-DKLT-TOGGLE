@@ -1,0 +1,15 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--FF);
+    font-size: 100%;
+    background: var(--background) ;
+    color: var(--WhiteText);
+    min-height: 150vh;
+}
+
